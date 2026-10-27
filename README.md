@@ -2,7 +2,7 @@
 
 ## 📖 Descripción del Proyecto
 
-EcoMarket es una tienda virtual enfocada en la promoción y comercialización de productos ecológicos, reutilizables y sostenibles.
+EcoMarket es una tienda virtual que esta enfocada en la promoción y comercialización de productos ecológicos, reutilizables y sostenibles.
 
 El proyecto fue desarrollado utilizando únicamente HTML5 y CSS3, aplicando principios de diseño responsive, maquetación semántica, Flexbox, CSS Grid y buenas prácticas de control de versiones mediante GitFlow.
 

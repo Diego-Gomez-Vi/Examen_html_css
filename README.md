@@ -6,7 +6,7 @@ EcoMarket es una tienda virtual que esta enfocada en la promoción y comercializ
 
 El proyecto fue desarrollado utilizando únicamente HTML5 y CSS3, aplicando principios de diseño responsive, maquetación semántica, Flexbox, CSS Grid y buenas prácticas de control de versiones mediante GitFlow.
 
-El objetivo principal es ofrecer una experiencia visual atractiva que incentive el consumo responsable y contribuya a la concienciación ambiental.
+El objetivo principal es ofrecer una experiencia visual atractiva que incentive el consumo responsable y contribuya  la concienciación ambiental.
 
 ---
 
